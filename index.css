@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.h1{
+    font-size: 70px
+}
+.logo_div{
+    margin: 100px 0 0 200px;
+}
+.select{
+    width: 225px;
+}
+.bg_img{
+    display: flex;
+    position:absolute;
+    right: 0;
+    z-index: -1;
+}
+.circle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+}
+.block{
+    width: 400px;
+    height: 250px;
+}
+.block2{
+    width: 550px;
+    height: fit-content;
+}
+.size_icons{
+    width: 80px;
+    height: 80px;
+}
+
+.accent{
+    background-color: #674DC3;
+}
+.accent_blind{
+    background-color: #F2F0FC;
+}

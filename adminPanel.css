@@ -1,0 +1,11 @@
+.circle{
+    display: flex;
+    width: 40px;
+    height: 40px;
+}
+
+.container1{
+  margin-top: 50px;
+  width: 80vw;
+  height: 75vh;
+}
